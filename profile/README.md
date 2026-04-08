@@ -62,5 +62,5 @@ Consultants junior, confirmés ou managers — si vous souhaitez évoluer à l'i
 ---
 
 <p align="center">
-  <sub>Protiviti France · Paris · © 2025 Protiviti Inc. Tous droits réservés.</sub>
+  <sub>Protiviti France · Paris · © 2026 Protiviti Inc. Tous droits réservés.</sub>
 </p>
