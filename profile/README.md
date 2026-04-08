@@ -8,7 +8,7 @@
 
 **Protiviti** est une société de conseil internationale spécialisée dans la gestion des risques, l'audit interne, la conformité réglementaire, la technologie et la transformation numérique. Présente dans plus de **30 pays**, elle accompagne des organisations de toutes tailles — des PME aux grandes entreprises du CAC 40 — pour naviguer dans des environnements de plus en plus complexes.
 
-Notre bureau **France** (Paris, Lyon) regroupe des consultants pluridisciplinaires couvrant l'ensemble des enjeux stratégiques, opérationnels et technologiques de nos clients.
+Notre bureau **France** (Paris) regroupe des consultants pluridisciplinaires couvrant l'ensemble des enjeux stratégiques, opérationnels et technologiques de nos clients.
 
 ---
 
