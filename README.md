@@ -1,4 +1,4 @@
-# 🇫🇷 Protiviti France
+# Protiviti France
 
 > **Conseil en management et technologie · Membre du réseau mondial Robert Half**
 
@@ -58,12 +58,6 @@ Consultants junior, confirmés ou managers — si vous souhaitez évoluer à l'i
 📬 **Contactez-nous** : [protiviti.com/fr-fr](https://www.protiviti.com/fr-fr)
 💼 **Offres d'emploi** : [(https://www.protiviti.com/fr-fr/carrieres)](https://www.protiviti.com/fr-fr/experienced-hires)
 🔗 **LinkedIn** : [Protiviti France](https://www.linkedin.com/company/protiviti)
-
----
-
-## 📜 Licence
-
-Sauf mention contraire, les ressources publiées dans ce dépôt sont mises à disposition sous licence **MIT**.
 
 ---
 
